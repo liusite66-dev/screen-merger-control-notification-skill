@@ -1,0 +1,4 @@
+interface:
+  display_name: 经营者集中申报审查
+  short_description: 筛查控制权、申报门槛、程序分流与抢跑风险
+  default_prompt: 请提供交易结构、各经营者近年全球及中国境内营业额、控制权安排和交易阶段；我会输出可追溯的初查报告。
