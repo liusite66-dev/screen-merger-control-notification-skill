@@ -1,0 +1,2 @@
+openpyxl>=3.1
+markitdown>=0.0.8
